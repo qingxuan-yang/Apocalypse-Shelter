@@ -1,0 +1,6 @@
+{
+  "name": "Shelter Survival",
+  "short_name": "Shelter",
+  "start_url": "/",
+  "display": "standalone"
+}

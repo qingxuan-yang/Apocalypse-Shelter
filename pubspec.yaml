@@ -1,0 +1,27 @@
+name: shelter_survival_demo
+description: A post-apocalyptic shelter survival game demo.
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flame: ^1.15.0
+  flame_audio: ^2.0.3
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/background.png
+    - assets/images/military-base.png
+    - assets/images/bunker.png
+    - assets/images/lab.png
+    - assets/images/island.png
+    - assets/images/building.png
+    - assets/images/storm.png
+    - assets/images/zombie.png
+    - assets/images/war.png
+    - assets/images/earthquake.png
+    - assets/images/tsunami.png
